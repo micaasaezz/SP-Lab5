@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Segundo Parcial</string>
+    <string name="textViewList">La lista está vacia.</string>
+    <string name="textViewName">Nombre:</string>
+    <string name="placeholderName">Juan</string>
+    <string name="textViewTel">Telefono:</string>
+    <string name="placeholderTel">444444444</string>
+    <string name="notFound"></string>
+</resources>
